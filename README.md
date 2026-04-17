@@ -3,9 +3,9 @@
 A full-stack application with **Laravel** (API), **Django** (microservice), and **React** (frontend).
 
 ## Prerequisites
-- PHP 8.1+ & Composer
-- Python 3.10+ (installed ✅)
-- Node.js 18+ (installed ✅)
+- PHP 8.2 & Composer
+- Python 3.14
+- Node.js 
 
 ## 1. Install PHP & Composer (if not installed)
 
